@@ -1,7 +1,7 @@
 megapirateng-add-ons
 ====================
 
-This is GitHub copy of the latest megapirateng-Add-Ons project. 
+This is GitHub copy of the latest megapirateng-Add-Ons project by Paku
 
 Source code version - MegaPirateNG Add-Ons V2.9.1b R8.158
 
